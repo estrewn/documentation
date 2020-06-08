@@ -6,9 +6,9 @@
 4) select the estrewn-dbparamgroup DB parameter group
 5) select the estrew-db-securitygroup
 6) set the DB Instance identifier to "estrewn-production"
-6) restore estrewn-production-instance-1-final-snapshot
-7) start ec2 browser machine
-8) copy public DNS to SecureCRT session
-9) connect the SecureCRT session
-10) cd server
-11) bash run_server.sh
+7) restore estrewn-production-instance-1-final-snapshot
+8) start ec2 browser machine
+9) copy public DNS to SecureCRT session
+10) connect the SecureCRT session
+11) cd server
+12) bash run_server.sh
