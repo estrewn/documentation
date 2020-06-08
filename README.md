@@ -1,6 +1,6 @@
 # documentation
 
-1) restore estrewn-production-final-snapshot
+1) restore estrewn-production-instance-1-final-snapshot
 2) select the db.r5.large DB instance class
 3) select the estrewn-dbclustparamgroup DB cluster parameter group
 4) select the estrewn-dbparamgroup DB parameter group
