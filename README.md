@@ -1,6 +1,7 @@
 # documentation
 
 1) restore estrewn-production-final-snapshot
+2) select the db.r5.large DB instance class
 2) restore estrewn-production-instance-1-final-snapshot
 3) start ec2 browser machine
 4) copy public DNS to SecureCRT session
