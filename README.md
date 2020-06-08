@@ -10,5 +10,6 @@
 8) start ec2 browser machine
 9) copy public DNS to SecureCRT session
 10) connect the SecureCRT session
-11) cd server
-12) bash run_server.sh
+11) renew the certificate if necessary (sudo /usr/local/bin/certbot-auto renew --standalone --debug)
+12) cd server
+13) bash run_server.sh
