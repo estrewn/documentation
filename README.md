@@ -13,5 +13,5 @@
 11) connect the estrewn browser server SecureCRT session
 12) renew the certificate if necessary (sudo /usr/local/bin/certbot-auto renew --standalone --debug)
 13) cd server
-14) in root.py, set the server.socket_host parameter to the private IP address of the estrewn browser server machine
+14) in server.py, set the server.socket_host parameter to the private IP address of the estrewn browser server machine
 15) bash run_server.sh
