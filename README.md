@@ -9,7 +9,8 @@
 7) restore estrewn-production-instance-1-final-snapshot
 8) start ec2 browser machine
 9) copy public DNS to SecureCRT session
-10) connect the SecureCRT session
-11) renew the certificate if necessary (sudo /usr/local/bin/certbot-auto renew --standalone --debug)
-12) cd server
-13) bash run_server.sh
+10) copy the IPv4 Public IP address to the estrewn.com Record Set in Route 53
+11) connect the SecureCRT session
+12) renew the certificate if necessary (sudo /usr/local/bin/certbot-auto renew --standalone --debug)
+13) cd server
+14) bash run_server.sh
