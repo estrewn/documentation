@@ -4,7 +4,7 @@
 2) select the db.r5.large DB instance class
 3) select the estrewn-dbclustparamgroup DB cluster parameter group
 4) select the estrewn-dbparamgroup DB parameter group
-5) select the estrew-db-securitygroup
+5) select the estrewn-db-securitygroup
 6) set the DB Instance identifier to "estrewn-production"
 8) start the estrewn browser machine
 9) copy public DNS to SecureCRT session
